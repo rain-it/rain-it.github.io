@@ -14,14 +14,14 @@ OpenSprinkler üzembe helyezése
 ## Bevezetés
 
 ![Vezérlő](/2023-09-22/controller.jpg){: width="972" height="589" .w-50 .right}
-### 1.  Csatlakoztasd a mágnesszelepeket a COM-hoz és a zónákhoz (Z1....Z8)!
-### 2.  Csatlakoztasd az adaptert (DC 7.5-9V) a konnektor aljzathoz és a tápcsatlakozó bemenethez! A visszajelző led innentől világítani fog, amíg tápforráshoz van csatlakoztatva a vezérlő.
-### 3.  Az OpenSprinkler első indítása után hozzáférési pont módban indul, azaz a hálózatlistában egy új WLAN-t találsz OS_xxxxxxx SSID-vel (megnevezés). Csatlakoztasd okostelefonod vagy laptopod ehhez a WLAN-hoz. Megjegyzés: Android-eszközökön az az üzenet jelenik meg, hogy ennek a kapcsolatnak nincs internetkapcsolata. Válaszd az Igen lehetőséget, hogy csatlakozva maradj.
-### 4.  Nyissd meg a webböngészőt, és írd be a 192.168.4.1 címet. Ezután kövesd a képernyőn megjelenő utasításokat. A következő lépésekhez szüksége lesz a WLAN útválasztó (router) SSID azonosítójára és a WLAN jelszóra.
-### 5.  A sikeres beállítás után az OpenSprinkler újraindul, és csatlakozik a WLAN-hoz. Android eszközökön kiírja a kapott ip címet is.
-### 6.  Telepítsd az „OpenSprinkler” APP-ot a Play/App Store-ból, és indítsd el.
+#### 1.  Csatlakoztasd a mágnesszelepeket a COM-hoz és a zónákhoz (Z1....Z8)!
+#### 2.  Csatlakoztasd az adaptert (DC 7.5-9V) a konnektor aljzathoz és a tápcsatlakozó bemenethez! A visszajelző led innentől világítani fog, amíg tápforráshoz van csatlakoztatva a vezérlő.
+#### 3.  Az OpenSprinkler első indítása után hozzáférési pont módban indul, azaz a hálózatlistában egy új WLAN-t találsz OS_xxxxxxx SSID-vel (megnevezés). Csatlakoztasd okostelefonod vagy laptopod ehhez a WLAN-hoz. Megjegyzés: Android-eszközökön az az üzenet jelenik meg, hogy ennek a kapcsolatnak nincs internetkapcsolata. Válaszd az Igen lehetőséget, hogy csatlakozva maradj.
+#### 4.  Nyissd meg a webböngészőt, és írd be a 192.168.4.1 címet. Ezután kövesd a képernyőn megjelenő utasításokat. A következő lépésekhez szüksége lesz a WLAN útválasztó (router) SSID azonosítójára és a WLAN jelszóra.
+#### 5.  A sikeres beállítás után az OpenSprinkler újraindul, és csatlakozik a WLAN-hoz. Android eszközökön kiírja a kapott ip címet is.
+#### 6.  Telepítsd az „OpenSprinkler” APP-ot a Play/App Store-ból, és indítsd el.
 Alternatív megoldásként beírhatod a http://<ipcím> címet a webböngészőbe, és eléred a webes kezelőfelületet.
 Az <ipcím> a hálózati útválasztó felületéről tudható meg. Érdemes fix ip címet hozzárendelni az eszközhöz a a hálózati útválasztó (router) felületén.
 Az OpenSprinkler App fel tudja deríteni a hálózaton lévő OpenSprinkler vezérlő(ket) a scan gomra nyomva.
-### 7.  Az alapértelmezett jelszó "opendoor"
-### 8.  Ha nem jön létre kapcsolat, vagy ha rossz WLAN-jelszót adtál meg, nyomd meg a B3 és a B2 gombot a hozzáférési pont módba való visszatéréshez.
+#### 7.  Az alapértelmezett jelszó "opendoor"
+#### 8.  Ha nem jön létre kapcsolat, vagy ha rossz WLAN-jelszót adtál meg, nyomd meg a B3 és a B2 gombot a hozzáférési pont módba való visszatéréshez.
