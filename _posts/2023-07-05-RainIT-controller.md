@@ -5,7 +5,7 @@ date: 2023-07-05 08:33:00 +0200
 categories: [RainIT, Leiras]
 tags: [RainIT, Leiras]
 pin: true
-img_path: '/img/20230705'
+img_path: '/assets/img/20230705'
 ---
 
 
