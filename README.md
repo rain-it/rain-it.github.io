@@ -2,8 +2,8 @@
 
 # Chirpy Starter Based github hosted page
 
-## Build and Deploy Badge
-[![Build and Deploy](https://github.com/rain-it/rain-it.github.io/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/rain-it/rain-it.github.io/actions/workflows/pages-deploy.yml)
+## Badges
+[![CI](https://github.com/rain-it/rain-it.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/rain-it/rain-it.github.io/actions/workflows/ci.yml)
 
 
 ## Usage
