@@ -4,5 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> Ez az oldal mesél rólam egy keveset.
+
+Mechatronikai mérnök vagyok, és ezt a projektet 2017-ben kezdtem el, mint hobbiprojektet magamnak. Szeretek az elektronikával játszani, és egy kis kódolás is pihentető érzés.
+
+Az első prototípust 2018 tavaszán állítottam össze különálló modulokból, amelyeken az opensprinkler firmware futott.
+
+Egy évvel később megrendeltem az eredeti opensprinkler DC változatnak megfelelő pcb-ket. Az első pcb-ket néhány barátom és én magam teszteltük. Néhány esetben a pcb-k közötti csatlakozók elkezdtek oxidálódni, ami nehezen kideríthető problémákat okozott. Ezért kezdtem el tervezni az opensprinkler egy lapkás változatát.
+
+2021-ben megérkeztek az első saját tervezésű pcb lapjaim, és belevetettem magam a részletes tesztelésbe. Azóta több változatot készítettem a szabványos elektromos csatlakozódobozokhoz, amelyek IP55 védelmet biztosítanak a vezérlőpanel számára.
 {: .prompt-tip }
