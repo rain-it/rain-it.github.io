@@ -46,7 +46,7 @@ Ez egy saját tervezésű vezérlő, az eredeti opensprinkler DC verzió néhán
   + Mester szelep
   + Zónák
   + Időjárás
-    * <a href="https://rain-it.github.io/posts/idojaras/">OTC token</a>
+    * <a href="https://rain-it.github.io/posts/idojaras/">Időjárás</a>
   + Integrációs szolgáltatások
     * <a href="https://rain-it.github.io/posts/OTC-token/">OTC token</a>
     * MQTT
