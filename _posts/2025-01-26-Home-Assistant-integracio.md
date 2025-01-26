@@ -27,12 +27,12 @@ Telepítsd az integrációt és az irányítópultot is!
 
 Az irányítópulthoz hozzá lehet adni az érdekes érzékelőket:
 
-![Desktop View](/2.png){: width="972" height="589" .w-75 .normal}
+![Desktop View](/2.png){: width="360" height="589" .w-75 .normal}
 
 Meg lehet jeleníteni történeti adatokat a grafikonokon:
 
-![Desktop View](/3.png){: width="972" height="589" .w-75 .normal}
+![Desktop View](/3.png){: width="360" height="589" .w-75 .normal}
 
 A telepített kezelőfelületet kibontva pedig kézi irányítással is vezérelhetjük:
     
-![Desktop View](/4.png){: width="972" height="589" .w-75 .normal}
+![Desktop View](/4.png){: width="360" height="589" .w-75 .normal}
