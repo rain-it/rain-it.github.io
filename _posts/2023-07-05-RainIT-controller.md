@@ -48,8 +48,11 @@ Ez egy saját tervezésű vezérlő, az eredeti opensprinkler DC verzió néhán
   + Időjárás
     * <a href="https://rain-it.github.io/posts/Idojaras/">Időjárás</a>
   + Integrációs szolgáltatások
-    * <a href="https://rain-it.github.io/posts/OTC-token/">OTC token</a>
+    * <a href="https://rain-it.github.io/posts/OTC-token/">OTC token a távoli eléréshez</a>    
+    * <a href="https://rain-it.github.io/posts/Home-Assistant-integracio/">Home Assistant integráció</a>
     * MQTT
   + Haladó beállítások
+    * Biztonsági mentés
+    * Szoftverfrissítés
   + Visszaállítás
 <hr style="width:50%;height:1px;border-width:0;color:gray;background-color:var(--main-bg)">
