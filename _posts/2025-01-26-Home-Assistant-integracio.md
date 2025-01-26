@@ -21,18 +21,14 @@ Nyisd meg a Home Assistant HACS felületét!
 
 A keresőmezőbe írd be az "opensprinkler" szót!
     
-![Desktop View](/01.png){: width="972" height="589" .w-75 .normal}
 
 Telepítsd az integrációt és az irányítópultot is!
 
 Az irányítópulthoz hozzá lehet adni az érdekes érzékelőket:
 
-![Desktop View](/02.png){: width="972" height="589" .w-75 .normal}
 
 Meg lehet jeleníteni történeti adatokat a grafikonokon:
     
-![Desktop View](/03.png){: width="972" height="589" .w-75 .normal}
 
 A telepített kezelőfelületet kibontva pedig kézi irányítással is vezérelhetjük:
     
-![Desktop View](/04.png){: width="972" height="589" .w-75 .normal}
