@@ -17,5 +17,22 @@ Home Assistant friss verzió és HACS legyen teletítve
 
 ## 1. lépés: intrgrációk hozzáadása
 
-###  A1: 
-Menj a <a href="https://www.openthings.io">www.openthings.io</a> oldalra, és jelentkezz be az <a href="https://opensprinkler.com">opensprinkler.com</a> bejelentkezési e-mail/felhasználónév és jelszó használatával. Ha még nincs <a href="https://opensprinkler.com">opensprinkler.com</a> fiókod, kérlek, lépj az <a href="https://opensprinkler.com">opensprinkler.com</a> oldalra, és kattints a "My Account" (Fiókom) gombra a tetején, majd regisztrálj egy új felhasználói fiókot. A két weboldal ugyanazt a bejelentkezést használja.
+Nyisd meg a Home Assistant HACS felületét!
+
+A keresőmezőbe írd be az "opensprinkler" szót!
+    
+![Desktop View](/01.png){: width="972" height="589" .w-75 .normal}
+
+Telepítsd az integrációt és az irányítópultot is!
+
+Az irányítópulthoz hozzá lehet adni az érdekes érzékelőket:
+
+![Desktop View](/02.png){: width="972" height="589" .w-75 .normal}
+
+Meg lehet jeleníteni történeti adatokat a grafikonokon:
+    
+![Desktop View](/03.png){: width="972" height="589" .w-75 .normal}
+
+A telepített kezelőfelületet kibontva pedig kézi irányítással is vezérelhetjük:
+    
+![Desktop View](/04.png){: width="972" height="589" .w-75 .normal}
