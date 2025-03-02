@@ -53,5 +53,5 @@ Ez egy saját tervezésű vezérlő, az eredeti opensprinkler DC verzió néhán
 - Haladó beállítások
   + Biztonsági mentés
   + Szoftverfrissítés
-- Visszaállítás gyári állaptra
+- <a href="https://rain-it.github.io/posts/Visszaallitas-gyari-allapotra/">Visszaállítás gyári állaptra</a>
 <hr style="width:50%;height:1px;border-width:0;color:gray;background-color:var(--main-bg)">
