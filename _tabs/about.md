@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+img_path: '/assets/img/about'
 ---
 
 > Ez az oldal mesél rólam egy keveset.
@@ -19,4 +20,4 @@ Rendelni a <a href="https://www.tindie.com/products/adamrepay/rainit/">https://w
 
 <a href="https://www.facebook.com/groups/594442279263215/">Facebook csoportban </a> igyekszem naprakészen posztolni a nagyobb frissítésekről, újdonságokról, valamint kérdezz-felelek is megy itt. A több felhasználót is érintő dolgokat iss vitatjuk meg, az egyéni esetekben privátban segítek.
 
-![Desktop View]('assets/img/OpenSprinkler Magyarország.jpg'){: width="972" height="589" .w-50}
+![Desktop View](OpenSprinklerMagyarorszag.jpg){: width="972" height="589" .w-50}
