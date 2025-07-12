@@ -16,3 +16,7 @@ Egy évvel később megrendeltem az eredeti opensprinkler DC változatnak megfel
 {: .prompt-tip }
 
 Rendelni a <a href="https://www.tindie.com/products/adamrepay/rainit/">https://www.tindie.com/products/adamrepay/rainit/ </a> oldalon vagy <a href="mailto:adam.repay@gmail.com?subject=Rain-IT%20rendelés&body=Tisztelt%20Címzett!%0A%0ARain-IT%20vezérlőt%20szeretnék%20rendelni." target="_top">emailben </a> lehet. Emailes rendelésekre 10% kedvezményt biztosítok. A termékhez minden esetben számla illetve 3 év cseregarancia társul.
+
+<a href="https://www.facebook.com/groups/594442279263215/">Facebook csoportban </a> igyekszem naprakészen posztolni a nagyobb frissítésekről, újdonságokról, valamint kérdezz-felelek is megy itt. A több felhasználót is érintő dolgokat iss vitatjuk meg, az egyéni esetekben privátban segítek.
+
+![Desktop View]('/assets/img/OpenSprinkler Magyarország.jpg'){: width="972" height="589" .w-50}
