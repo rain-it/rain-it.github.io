@@ -16,7 +16,7 @@ timezone: Europe/Budapest
 
 title: RainIT # the main title
 
-tagline: Időjárás alapú önöző vezérlő # it will display as the sub-title
+tagline: Időjárás alapú öntöző vezérlő # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Aprócska 8 zónás időjárásalapú okos öntözésvezérlő wifi modullal. Helyi hálózaton számítógépről és mobil appból is elérhető, egyszerű regisztráció után házon kívülről is vezérelhető.
@@ -195,6 +195,6 @@ jekyll-archives:
     tag: tag
   permalinks:
     tag: /tags/:name/
-    category: /categories/:name/  
+    category: /categories/:name/
   redirect_from:
     - /posts/RainIT-controller/
