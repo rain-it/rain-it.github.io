@@ -9,7 +9,7 @@ order: 2
 permalink: /QR/
 img_path: '/assets/img/20230705'
 ---
-
+<script defer src="https://cloud.umami.is/script.js" data-website-id="3c404cc8-4d77-4514-9529-f89eaa5ae6b1"></script>
 
 {% include embed/youtube.html id='NSu8Ayk055k' %}
 
