@@ -2,10 +2,11 @@
 title: "RainIT vezérlő"
 author: rain-it
 date: 2023-07-05 08:33:00 +0200
-categories: [RainIT, Leiras]
-tags: [RainIT, Leiras]
+categories: [RainIT, RainIT Leíras]
+tags: [RainIT, RainIT Leíras]
 pin: true
 img_path: '/assets/img/20230705'
+permalink: /
 ---
 
 
