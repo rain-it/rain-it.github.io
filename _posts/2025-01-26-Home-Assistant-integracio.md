@@ -2,8 +2,8 @@
 title: "Home Assistant integráció"
 author: rain-it
 date: 2025-01-26 12:33:00 +0200
-categories: [RainIT, Leiras, HomeAssistant]
-tags: [RainIT, Leiras, HomeAssistant]
+categories: [RainIT, HomeAssistant]
+tags: [RainIT, HomeAssistant]
 pin: false
 img_path: '/assets/img/20250126'
 ---

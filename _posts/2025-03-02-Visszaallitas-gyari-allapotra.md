@@ -2,8 +2,8 @@
 title: "Visszaállítás gyári állapotra"
 author: rain-it
 date: 2025-03-02 17:33:00 +0200
-categories: [RainIT, Leiras]
-tags: [RainIT, Leiras, Reset]
+categories: [RainIT, Reset]
+tags: [RainIT, Reset]
 pin: false
 img_path: '/assets/img/20250302'
 ---

@@ -2,8 +2,8 @@
 title:  "Üzembe-helyezés"
 author: rain-it
 date: 2023-09-22 08:33:00 +0200
-categories: [RainIT, Leiras, OTC-token]
-tags: [RainIT, Leiras, OTC-token]
+categories: [RainIT, üzembe helyezés]
+tags: [RainIT, üzembe helyezés]
 pin: false
 img_path: '/assets/img/20230922'
 ---
