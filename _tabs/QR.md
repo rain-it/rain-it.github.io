@@ -1,5 +1,8 @@
 ---
 title: "QR"
+icon: fas fa-qrcode
+author: rain-it
+date: 2023-07-05 08:33:00 +0200
 order: 2
 permalink: /QR/
 ---
