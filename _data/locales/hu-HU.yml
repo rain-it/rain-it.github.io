@@ -46,6 +46,7 @@ meta: Készítve :PLATFORM motorral :THEME témával
 
 not_found:
   statment: Sajnáljuk, az URL-t rosszul helyeztük el, vagy valami nem létezőre mutat.
+  redirect: Hamarosan átirányítjuk...
 
 notification:
   update_found: Elérhető a tartalom új verziója.

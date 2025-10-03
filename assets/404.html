@@ -12,3 +12,11 @@ redirect_from:
 {% include lang.html %}
 
 <p class="lead">{{ site.data.locales[lang].not_found.statment }}</p>
+
+<h1>{{ site.data.locales[lang].not_found.redirect }}<a href="/">{{ site.data.locales[lang].tabs.home }}</a></h1>
+
+<script>
+    setTimeout(function () {
+        window.location.href = "/";
+    }, 2000);
+</script>
