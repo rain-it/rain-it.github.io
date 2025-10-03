@@ -5,6 +5,7 @@ author: rain-it
 date: 2023-07-05 08:33:00 +0200
 order: 2
 permalink: /QR/
+hidden: true
 ---
 <script defer src="https://cloud.umami.is/script.js" data-website-id="3c404cc8-4d77-4514-9529-f89eaa5ae6b1"></script>
 
