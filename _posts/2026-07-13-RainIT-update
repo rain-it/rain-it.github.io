@@ -1,5 +1,5 @@
 ---
-title: "Firmware-frissítés"
+title: "Firmware frissítés"
 author: rain-it
 date: 2026-07-13 06:00:00 +0200
 categories: [RainIT, Firmware frissítés]
@@ -13,18 +13,15 @@ img_path: '/assets/img/20260713'
 
 A RainIT firmware-e időről időre frissül: új funkciók, hibajavítások és kompatibilitási fejlesztések kerülnek bele. A vezérlő OTA (levegőn keresztüli) frissítést támogat, vagyis a firmware közvetlenül a webes felületen keresztül feltölthető, külön kábel vagy programozó nélkül.
 
----
 
 ## Mentés frissítés előtt
 
 Frissítés előtt mindig érdemes elmenteni a beállításokat, hogy hiba esetén gyorsan vissza lehessen állítani a programokat és a konfigurációt. Ezt az oldalsávon található **Konfiguráció exportálása** menüponttal lehet megtenni.
 
 Fontos különbség a verziószámozásban:
-
 - **Pontozott verzióváltás** (pl. 2.2.0 → 2.2.1) gyári visszaállítást indít, és **minden beállítás törlődik**.
 - **Build szám változás** (pl. 2.2.1(2) → 2.2.1(4)) esetén **minden beállítás megmarad**.
 
----
 
 ## OTA frissítés lépései
 
@@ -37,7 +34,6 @@ Fontos különbség a verziószámozásban:
    - Ha a feltöltés nem sikerül, próbáld meg újra.
    - Ha a vezérlő lefagy, húzd ki, majd dugd vissza a tápot, és próbáld újra.
 
----
 
 ## Gyakori problémák és megoldásuk
 
