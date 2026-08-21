@@ -53,6 +53,6 @@ Ez egy saját tervezésű vezérlő, az eredeti opensprinkler DC verzió néhán
   + MQTT
 - Haladó beállítások
   + Biztonsági mentés
-  + Szoftverfrissítés
+  + <a href="https://rain-it.github.io/categories/firmware-friss%C3%ADt%C3%A9s/">Szoftverfrissítés</a>
 - <a href="https://rain-it.github.io/posts/Visszaallitas-gyari-allapotra/">Visszaállítás gyári állaptra</a>
 <hr style="width:50%;height:1px;border-width:0;color:gray;background-color:var(--main-bg)">
